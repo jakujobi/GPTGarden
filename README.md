@@ -17,10 +17,8 @@ Each assistant lives in its own subfolder, complete with all the goodies you nee
 ## Getting Started
 
 To get these buddies up and running, follow these steps:
-
-1. **Clone this repo**: `git clone https://github.com/jakujobi/GPTGarden.git`
-2. **Pick your assistant**: `cd` into their folder.
-3. **Install the goods**: Just run `pip install -r requirements.txt` (after you've activated your virtual env, of course).
+- Go to the of the assistant in this repository
+- Click the link: It takes you to their page on Openai GPT store
 
 ## Contribute to the Ecosystem
 
